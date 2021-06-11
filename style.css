@@ -1,0 +1,37 @@
+/* Author: Michael Gold
+ * Created: 6/7/21
+ * Purpose: Stylesheet for lab4 (resume, bio, index) */
+
+.title {
+    color: black;
+    text-align: center;
+}
+
+.section-header {
+    color: black;
+    text-align: left;
+    font-size: 16px;
+}
+
+.section-body {
+    color: black;
+    text-align: left;
+    font-size: 11px;
+}
+
+.left-align {
+    display: inline-block;
+    width: 100px;
+}
+
+#index {
+    font-family: Arial;
+}
+
+#bio {
+    font-family: Montserrat;
+}
+
+#resume {
+    font-family: "Georgia";
+}
